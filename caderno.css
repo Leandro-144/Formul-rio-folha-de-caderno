@@ -1,0 +1,28 @@
+form
+      {
+          border: 2px solid blue;
+          width: 635px;
+          margin: auto;
+          padding: 20px
+      }
+      body
+      {
+          background-color:
+          
+      }
+      table 
+      {
+		    	 border-collapse: collapse;
+			    width: 100%;
+		   }
+		   th, td 
+		   {
+			    border: none;
+			    padding: 8px;
+			    text-align: center;
+		   }
+		th 
+		{
+			background-color: #87CEFA;
+			border: none;
+		}
